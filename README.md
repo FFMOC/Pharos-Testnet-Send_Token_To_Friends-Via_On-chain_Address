@@ -20,11 +20,10 @@ pip install -r requirements.txt
 
 4. Configure environment variables:
 Create a .env file in the project root and add:
-
+```
 RPC_URL = "https://testnet.dplabs-internal.com"   # You can use your own RPC
-
 PRIVATE_KEY = "your private key"                  # Not sent anywhere; code is open
-
+```
 5. Run:
 python SendOnChain.py
 
@@ -52,11 +51,10 @@ pip install -r requirements.txt
 
 4. Налаштування змінних середовища:
 Створіть файл .env у кореневій папці проєкту та додайте:
-
+```
 RPC_URL = "https://testnet.dplabs-internal.com"   # Можете використати власний RPC
-
 PRIVATE_KEY = "ваш приватний ключ"                # Не передається нікуди, код можна перевірити
-
+```
 5. Запуск:
 python SendOnChain.py
 
