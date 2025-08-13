@@ -1,0 +1,16 @@
+headers = {
+    'accept': 'application/json, text/plain, */*',
+    'accept-language': 'uk-UA,uk;q=0.9,en-US;q=0.8,en;q=0.7',
+    'authorization': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3ODY2MTY0NzksImlhdCI6MTc1NTA4MDQ3OSwic3ViIjoiMHgxZEQ5MDU4NzIyYUJFRTdFYjdjMjRCNzI3MGM1Rjg4RDM0MkUyZTkwIn0.K5J4GNDFAiZy4NwzpXCz7bHD__hIuPK3BNPEOtp_VQ8',
+    'content-type': 'application/json',
+    'origin': 'https://testnet.pharosnetwork.xyz',
+    'priority': 'u=1, i',
+    'referer': 'https://testnet.pharosnetwork.xyz/',
+    'sec-ch-ua': '"Not;A=Brand";v="99", "Google Chrome";v="139", "Chromium";v="139"',
+    'sec-ch-ua-mobile': '?0',
+    'sec-ch-ua-platform': '"Windows"',
+    'sec-fetch-dest': 'empty',
+    'sec-fetch-mode': 'cors',
+    'sec-fetch-site': 'same-site',
+    'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36',
+}
